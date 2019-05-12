@@ -9,6 +9,7 @@ agrega 3 datos al final
 0 0 1 verde
 lee todos los pixeles de cada imagen y los guarda en datos-entrenamiento-csv
 """
+"""1"""
 
 from PIL import Image
 from os import listdir
